@@ -1,4 +1,4 @@
-companyEXTID,first_name,last_name,email,country,lead_id,account_id
+ID,first_name,last_name,email,country,lead_id,account_id
 1,Phillip,Barnes,pbarnes0@about.com,United States,55,99
 2,Kathryn,Hansen,khansen1@ustream.tv,United States,91,18
 3,Roy,Edwards,redwards2@bravesites.com,United States,78,26
