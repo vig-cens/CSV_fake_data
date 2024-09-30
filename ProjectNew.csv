@@ -1,0 +1,508 @@
+"project_id","name","display_name","project_number","office_name","project_type_name","description","estimated_start_date","estimated_completion_date","project_start_date","projected_finish_date","last_wokring_update"
+474908,Standard Project Template,Standard Project Template,,"Bulley & Andrews, LLC",,,,,2018-02-14,,2024-03-19
+474920,Sandbox Test Project,"1234 - Sandbox Test Project","1234","Bulley & Andrews, LLC",Single Family Home,To test out Procore's tools and features.,2022-01-01,2022-12-02,2019-04-01,2022-03-28,2024-09-20
+475003,WeWork Kinzie L16 Buildout,"118074 - WeWork Kinzie L16 Buildout","118074","Bulley & Andrews, LLC",Corporate,"23,500 SF Tenant Improvement",2018-02-19,2018-06-01,2018-01-04,2018-06-04,2024-03-19
+1115232,Corporate/Commercial/Restoration Division Standard Project Template,ccr_template - Corporate/Commercial/Restoration Division Standard Project Template,ccr_template,"Bulley & Andrews, LLC",Commercial,,2022-01-19,2022-01-19,2022-01-19,2022-01-19,2024-08-06
+1115235,BAMR Standard Project Template,"42XXXXX - BAMR Standard Project Template","42XXXXX","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-01-13,,2024-08-06
+1115240,BACR Standard Project Template,"520xxxx - BACR Standard Project Template","520xxxx","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-01-13,,2024-08-06
+1121633,Institutional Division Standard Project Template,institution_template - Institutional Division Standard Project Template,institution_template,"Bulley & Andrews, LLC",Community Center,,,,2020-01-16,,2024-08-06
+1121636,Educational Division Standard Project Template,edu_template - Educational Division Standard Project Template,edu_template,"Bulley & Andrews, LLC",Higher Ed,,,,2020-01-16,,2024-08-06
+1121637,Hospitality Division Standard Project Template,hotel_template - Hospitality Division Standard Project Template,hotel_template,"Bulley & Andrews, LLC",Hospitality,,,,2020-01-16,,2024-08-06
+1121640,Healthcare Division Standard Project Template,health_template - Healthcare Division Standard Project Template,health_template,"Bulley & Andrews, LLC",Healthcare,,,,2020-01-16,,2024-08-06
+1121645,Residential + Restoration Standard Project Template,residential_template - Residential + Restoration Standard Project Template,residential_template,Bulley & Andrews Residential + Restoration,Residential,,,,2020-01-16,,2024-08-06
+1121646,Chicago Botanic Garden Shade Evaluation and Shoreline Restoration,"1200091 - Chicago Botanic Garden Shade Evaluation and Shoreline Restoration","1200091","Bulley & Andrews, LLC",Recreational,"SHORELINE RESTORATION: Work includes the selective removal of existing, plantings, trees, and removal of existing soils along the shoreline, installation of sheet piling and sandbag coffer dams, dewatering of a portion of Prairie Lake, pond bottom removal and recontouring, installation of new shoreline stone berms, geoweb, benthic mesh, manufactured planting soil, related plantings, new boat ramp at Evening Island, all related SWPPP measures, storm utility work and bypass pumping station
+SHADE EVALUATION GARDEN: Work includes the selective removal of existing, plantings, trees, service drive curbs and pavement, stripping and removal of existing soils adjacent to the service drive, installation of precise sloped subgrade and underdrain system, installation of manufactured soils to new grades, new service drive pavement and curbs, all related SWPPP measures,  irrigation main, branch lines and heads, trees, plantings, shrubs, steel edging, signage, brick pavers, pathways, pergolas, tree tunnels and arbors.",2020-01-16,2021-11-10,2020-01-16,2021-11-10,2024-03-19
+1121649,DePaul South Building - Phase 5,"118241 - DePaul South Building - Phase 5","118241","Bulley & Andrews, LLC",Higher Ed,The scope entails the removal of the flat first floor and installing anew structural slab that will have tiered (movie theater style) raised seating and all new infrastructure. There will be a orchestra pit that elevates and lowers.,2018-12-07,2018-12-19,2019-11-01,2020-02-19,2024-08-06
+1124393,Belden Stratford,"119209 - Belden Stratford","119209","Bulley & Andrews, LLC",Multi-Tenant,"Preconstruction services for the complete interior renovation including riser replacement, rooftop buildout, elevator extension, new exterior dropoffs and canopies and potential window replacement.",2020-08-01,2023-07-01,2020-08-01,2023-07-01,2024-08-06
+1126687,"4K W. Diversey MEFP Infrastructure Project","1200117 - 4K W. Diversey MEFP Infrastructure Project","1200117","Bulley & Andrews, LLC",Commercial,"Mechanical, Electrical, Plumbing and Fire Protection upgrades to the base building. Installation of electrical feeds, new cooling tower, domestic, sanitary, vent and waste piping, relocation of fire protection mains, and demo of old MEFP equipment not needed anymore.",2020-08-24,2020-12-25,2020-08-24,2020-12-25,2024-03-19
+1128711,"2626 N Lakeview Condominiums – Garage Restoration","119275x - 2626 N Lakeview Condominiums – Garage Restoration","119275x","Bulley & Andrews, LLC",Parking Facility,"concrete restoration in existing garage.  Scope includes MEPFP replacement, concrete repairs, and new traffic coating/waterproofing membranes.",2020-01-20,2020-11-13,2020-01-20,2020-11-13,2024-03-19
+1129288,SAIC - 112 S. Michigan Ave,"4200030 - SAIC - 112 S. Michigan Ave","4200030","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-06-26,2020-11-01,2020-06-26,2020-11-01,2024-03-19
+1133837,Intrinsic Phase 2 & 3,"1200125 - Intrinsic Phase 2 & 3","1200125","Bulley & Andrews, LLC",K-12 School,"Interior Buildout for levels 2-3 & 5-5 of classroom, kitchen, multipurpose & fitness room space, along with an additional lab on",2020-03-27,2020-11-27,2020-03-16,2020-08-06,2024-03-19
+1133845,Chiaravalle Montessori Summer Renovation 2020,"1200101 - Chiaravalle Montessori Summer Renovation 2020","1200101","Bulley & Andrews, LLC",K-12 School,"Renovation of existing school including full renovation of 1st floor, and finishes and mechanical systems for all four levels.",2020-03-15,2020-08-31,2020-03-15,2020-08-31,2024-03-19
+1136614,"1800 W Roscoe","4200058 - 1800 W Roscoe","4200058","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-01-27,2020-12-31,2020-03-03,2020-12-31,2024-03-19
+1138833,North Central College - Academic Building,DELETE MEx - North Central College - Academic Building,DELETE MEx,"Bulley & Andrews, LLC",Higher Ed,"4 story pre-cast academic building",2020-02-01,2021-02-28,2020-02-01,2021-02-28,2024-03-19
+1138834,North Central College - Academic Building,DELETE MExx - North Central College - Academic Building,DELETE MExx,"Bulley & Andrews, LLC",Higher Ed,"4 story pre-cast academic building",2020-02-01,2021-02-28,2020-02-01,2021-02-28,2024-03-19
+1138835,North Central College - Academic Building,DELETE MExxx - North Central College - Academic Building,DELETE MExxx,"Bulley & Andrews, LLC",Higher Ed,"4 story pre-cast academic building",2020-02-01,2021-02-28,2020-02-01,2021-02-28,2024-03-19
+1139014,Delete,"3 - Delete","3","Bulley & Andrews, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139016,Delete,"1 - Delete","1","Bulley & Andrews, LLC",Higher Ed,"New 4-story, 50,000 SF concrete structure that features a total of 24-units including 17 two bedroom, two bath-apartments of 1,350 SF each and 7, three bedroom, three bath-apartments of 1,600 SF each. The facility features a four-story brick and glass atrium, masonry exterior, and insulated casement windows. Underground parking is provided at the basement level.",,,2020-01-30,,2024-03-19
+1139024,Delete,"8 - Delete","8","Bulley & Andrews, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139025,Delete,"4 - Delete","4","Bulley & Andrews, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139027,Delete,"12 - Delete","12","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139031,Delete,"2 - Delete","2","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139033,Delete,"10 - Delete","10","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139037,Delete,"9 - Delete","9","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139041,Delete,"5 - Delete","5","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139048,Delete,"6 - Delete","6","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139050,Delete,"11 - Delete","11","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139053,Delete,"7 - Delete","7","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139163,UIC NPI Building,"4200001 - UIC NPI Building","4200001","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-01-30,,2024-03-19
+1139423,North Central College - Academic Building,"1200094 - North Central College - Academic Building","1200094","Bulley & Andrews, LLC",Higher Ed,"4 story pre-cast academic building",2020-02-01,2021-02-28,2020-02-01,2021-02-28,2024-03-19
+1140107,Chicago Children's Theatre,"4200073 - Chicago Children's Theatre","4200073","Bulley & Andrews Masonry Restoration, LLC",Warehouse,,,,2020-01-31,,2024-08-06
+1143693,LU BVM Hall,"4200076 - LU BVM Hall","4200076","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-04,,2024-03-19
+1144016,BAMR test project,test - BAMR test project,test,"Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-04,,2024-08-06
+1144737,BACR_Test Project,"520TEST - BACR_Test Project","520TEST","Bulley & Andrews Concrete Restoration, LLC",Plaza,Project for Training ,2020-03-02,2020-12-31,2020-03-02,2020-12-31,2024-08-06
+1146707,Woodfield Mall Plaza,"5200025 - Woodfield Mall Plaza","5200025","Bulley & Andrews Concrete Restoration, LLC",Plaza,,,,2020-02-05,,2024-08-06
+1147314,"3400 N Lake Shore Drive","5200035 - 3400 N Lake Shore Drive","5200035","Bulley & Andrews Concrete Restoration, LLC",Plaza,,2020-02-27,2020-02-27,2020-02-27,2020-02-27,2024-08-06
+1149605,HIP (Harlem Irving Companies) 2020,"5200001 - HIP (Harlem Irving Companies) 2020","5200001","Bulley & Andrews Concrete Restoration, LLC",Plaza,,2020-01-02,2020-12-31,2020-01-02,2020-12-31,2024-08-06
+1149672,Depaul School of Music Expansion Joint,"5200004 - Depaul School of Music Expansion Joint","5200004","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,Expansion Joint Replacement,2020-01-02,2020-02-04,2020-01-02,2020-02-04,2024-03-19
+1149704,Purdue_Northwestern Parking Garage North Side Repairs - 2019,"5200007 - Purdue_Northwestern Parking Garage North Side Repairs - 2019","5200007","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-18,,2020-05-18,,2024-08-06
+1149794,"300 S Riverside Emergency Knock Down Time and Material","5200008 - 300 S Riverside Emergency Knock Down Time and Material","5200008","Bulley & Andrews Concrete Restoration, LLC",Plaza,,2020-01-06,2020-01-13,2020-01-06,2020-01-13,2024-03-19
+1149813,Racquet Club of Chicago,"5200012 - Racquet Club of Chicago","5200012","Bulley & Andrews Concrete Restoration, LLC",Recreational,,,,2020-02-07,,2024-03-19
+1149831,"919 N. Michigan Avenue Planter Renovation","5200013 - 919 N. Michigan Avenue Planter Renovation","5200013","Bulley & Andrews Concrete Restoration, LLC",Plaza,,2020-04-20,2020-05-29,2020-04-28,2020-05-29,2024-08-06
+1149850,The Breakers 2020 Post Tension Beam Repairs,"5200015 - The Breakers 2020 Post Tension Beam Repairs","5200015","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-02-06,,2020-02-06,,2024-08-06
+1149879,New Post Office Plenum Removal,"5200018 - New Post Office Plenum Removal","5200018","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-07,,2024-08-06
+1149913,Harper College_Pedestrian Bridge Shoring,"5200023 - Harper College_Pedestrian Bridge Shoring","5200023","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,,,2020-02-07,,2024-08-06
+1150676,IIT Basement Waterproofing and Epoxy Injection,"5200031 - IIT Basement Waterproofing and Epoxy Injection","5200031","Bulley & Andrews Concrete Restoration, LLC",Commercial,Epoxy Injection,2020-02-12,2020-02-14,2020-02-12,2020-02-14,2024-08-06
+1150739,"10 S. Riverside and 120 S. Riverside Passenger Platform Rental","5200033 - 10 S. Riverside and 120 S. Riverside Passenger Platform Rental","5200033","Bulley & Andrews Concrete Restoration, LLC",Historical Restoration,,2021-08-01,2021-08-28,2021-08-01,2021-08-28,2024-08-06
+1150779,Oshkosh City Center 2020 Concrete and Waterproofing Repairs,"5200037 - Oshkosh City Center 2020 Concrete and Waterproofing Repairs","5200037","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-04-01,,2020-04-01,,2024-08-06
+1151634,"1245 N State Street_Remodeling Study","5200002 - 1245 N State Street_Remodeling Study","5200002","Bulley & Andrews Concrete Restoration, LLC",Residential,Bid for B&A Residential,,,2020-02-10,,2024-08-06
+1151643,Virginia Avenue Parking Garage_Repairs,"5200003 - Virginia Avenue Parking Garage_Repairs","5200003","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-10,,2024-08-06
+1151687,Princeton Access Improvements - GRF (CO to Job#519082),"5200005 - Princeton Access Improvements - GRF (CO to Job#519082)","5200005","Bulley & Andrews Concrete Restoration, LLC",Performance Space,Guaranteed Rate Field - This Project will be a change order to 519082.,,,2020-02-10,,2024-03-19
+1151700,Dixon Armory_Exploratory / Budget,"5200006 - Dixon Armory_Exploratory / Budget","5200006","Bulley & Andrews Concrete Restoration, LLC",Municipal,Concrete Building_Federal Bid,,,2020-02-10,,2024-08-06
+1151711,Malibu East Condominium_Ground Floor Improvements,"5200009 - Malibu East Condominium_Ground Floor Improvements","5200009","Bulley & Andrews Concrete Restoration, LLC",Plaza,,,,2020-02-10,,2024-08-06
+1151739,"1603 Orrington Ave","5200010 - 1603 Orrington Ave","5200010","Bulley & Andrews Concrete Restoration, LLC",Plaza,B&A Bid,,,2020-02-10,,2024-08-06
+1151752,ITB Lyric Opera House_Seat Replacement,"5200011 - ITB Lyric Opera House_Seat Replacement","5200011","Bulley & Andrews Concrete Restoration, LLC",Performance Space,,,,2020-02-10,,2024-08-06
+1151892,Hilton (Boston)_Emergency Shoring,"5200014 - Hilton (Boston)_Emergency Shoring","5200014","Bulley & Andrews Concrete Restoration, LLC",Hospitality,,,,2020-02-10,,2024-08-06
+1151905,Adlai E. Steveson High School Summer 2020 Improvements,"5200016 - Adlai E. Steveson High School Summer 2020 Improvements","5200016","Bulley & Andrews Concrete Restoration, LLC",K-12 School,,,,2020-02-10,,2024-08-06
+1151917,"500 Davis Street_Repaving","5200017 - 500 Davis Street_Repaving","5200017","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-10,,2024-08-06
+1151925,Chicago Union Station,"5200019 - Chicago Union Station","5200019","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-10,,2024-08-06
+1154445,"1100 W Fulton","419048 - 1100 W Fulton","419048","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,,,2020-02-12,,2024-03-19
+1154451,"318 S Michigan","419047 - 318 S Michigan","419047","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-12,,2024-03-19
+1154950,Monadnock (fire escape repairs),"4200026 - Monadnock (fire escape repairs)","4200026","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,2020-02-10,2020-02-18,2020-02-10,2020-02-18,2024-03-19
+1156178,Joffrey Tower Vaulted Sidewalk Restoration,"5200045 - Joffrey Tower Vaulted Sidewalk Restoration","5200045","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2021-05-03,2021-10-29,2021-05-03,2021-10-29,2024-08-06
+1156473,Golder College Prep,"5200020 - Golder College Prep","5200020","Bulley & Andrews Concrete Restoration, LLC",K-12 School,,,,2020-02-13,,2024-08-06
+1156560,YMCA Metropolitan of Chicago,"4200002 - YMCA Metropolitan of Chicago","4200002","Bulley & Andrews Masonry Restoration, LLC",Recreational,,,,2020-02-13,,2024-03-19
+1156780,Residences at Village Centre - Mt. Prospect,"5200021 - Residences at Village Centre - Mt. Prospect","5200021","Bulley & Andrews Concrete Restoration, LLC",Residential,Multi Building - Residences,,,2020-02-13,,2024-08-06
+1156808,"One Oakbrook Terrace, Garage Loose Concrete Knock-Down","5200022 - One Oakbrook Terrace, Garage Loose Concrete Knock-Down","5200022","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-13,,2024-08-06
+1157023,"300 E Superior_Northwestern Hospital","5200024 - 300 E Superior_Northwestern Hospital","5200024","Bulley & Andrews Concrete Restoration, LLC",Healthcare,,,,2020-02-13,,2024-08-06
+1158096,McCormick Mansion,"4200104 - McCormick Mansion","4200104","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-02-14,,2024-08-06
+1158407,UC Maintenance,"4200095 - UC Maintenance","4200095","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-14,,2024-03-19
+1159091,"300 East Ohio - Double Tree Chicago-Mag Mile","5200026 - 300 East Ohio - Double Tree Chicago-Mag Mile","5200026","Bulley & Andrews Concrete Restoration, LLC",Hospitality,,,,2020-02-14,,2024-08-06
+1159118,"828 S Wabash","5200027 - 828 S Wabash","5200027","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,,,2020-02-14,,2024-08-06
+1159133,Indianapolis - Market District Parking Garage 2020,"5200028 - Indianapolis - Market District Parking Garage 2020","5200028","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1159149,IU PU Indianapolis- Multi Garage Surfaces & Cable Repairs,"5200029 - IU PU Indianapolis- Multi Garage Surfaces & Cable Repairs","5200029","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1159157,Sienna Court Condo - Vehicular Ramp Renovation,"5200030 - Sienna Court Condo - Vehicular Ramp Renovation","5200030","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1159168,Purdue University_Tunnel Repair and Waterproofing - 2020,"5200032 - Purdue University_Tunnel Repair and Waterproofing - 2020","5200032","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,,,2020-02-14,,2024-08-06
+1159220,Waukegan Water Filtration,"5200034 - Waukegan Water Filtration","5200034","Bulley & Andrews Concrete Restoration, LLC",Municipal,,,,2020-02-14,,2024-08-06
+1159223,HIP Escalator #1 Infill Expansion Joint,"5200036 - HIP Escalator #1 Infill Expansion Joint","5200036","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-14,,2024-08-06
+1159231,Hollywood Casino Precast Panel Repair,"5200038 - Hollywood Casino Precast Panel Repair","5200038","Bulley & Andrews Concrete Restoration, LLC",Hospitality,,,,2020-02-14,,2024-08-06
+1159242,Capital One - Detroit,"5200039 - Capital One - Detroit","5200039","Bulley & Andrews Concrete Restoration, LLC",Financial,,,,2020-02-14,,2024-08-06
+1159246,OPP Parking Garage_Repair and Preventive Maintenance,"5200040 - OPP Parking Garage_Repair and Preventive Maintenance","5200040","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1159254,Hyatt Lodge - Oakbrook_Ceiling Injection,"5200041 - Hyatt Lodge - Oakbrook_Ceiling Injection","5200041","Bulley & Andrews Concrete Restoration, LLC",Hospitality,,,,2020-02-14,,2024-08-06
+1159275,Walker (Budget),"5200042 - Walker (Budget)","5200042","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1159284,Purdue_Tarkington Hall Brine Tank Rehabilitation - 2020,"5200043 - Purdue_Tarkington Hall Brine Tank Rehabilitation - 2020","5200043","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,,,2020-02-14,,2024-08-06
+1159290,Glenview Public Library Parking Garage,"5200076 - Glenview Public Library Parking Garage","5200076","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-14,,2024-08-06
+1161263,NU Technological Institute (Budget),"4200078 - NU Technological Institute (Budget)","4200078","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-17,,2024-08-06
+1162801,Executive Towers Parking Structures 2020 Repairs,"5200044 - Executive Towers Parking Structures 2020 Repairs","5200044","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-18,,2024-08-06
+1163555,City of Bloomington Police Parking Garage,"5200046 - City of Bloomington Police Parking Garage","5200046","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-18,,2024-08-06
+1163720,"300 E Superior Street Lurie Cage Wash Renovation","5200047 - 300 E Superior Street Lurie Cage Wash Renovation","5200047","Bulley & Andrews Concrete Restoration, LLC",Healthcare,,,,2020-02-18,,2024-08-06
+1163725,"25 East Washington_Pipe Penetration Leaks","5200048 - 25 East Washington_Pipe Penetration Leaks","5200048","Bulley & Andrews Concrete Restoration, LLC",Mixed-Use Space,,,,2020-02-18,,2024-08-06
+1163747,Audi Exchange Dealership Project,"5200049 - Audi Exchange Dealership Project","5200049","Bulley & Andrews Concrete Restoration, LLC",Retail,,,,2020-02-18,,2024-08-06
+1163753,"203 North LaSalle Parking Garage","5200050 - 203 North LaSalle Parking Garage","5200050","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-18,,2024-08-06
+1163765,"600 S Michigan","4200109 - 600 S Michigan","4200109","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,Roof Anchors,,,2020-02-18,,2024-08-06
+1163768,Adams and Wabash Parking Garage,"5200051 - Adams and Wabash Parking Garage","5200051","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-18,,2024-08-06
+1163778,"1250 N. Dearborn Condos","5200052 - 1250 N. Dearborn Condos","5200052","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,,,2020-02-18,,2024-08-06
+1163793,Liberty Square Condos,"5200053 - Liberty Square Condos","5200053","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,,,2020-02-18,,2024-08-06
+1163798,Waukegan Water Filtration Plant Eurethane Injection (Duplicate Job Name and Number) Refer to 5200034,"5200054 - Waukegan Water Filtration Plant Eurethane Injection (Duplicate Job Name and Number) Refer to 5200034","5200054","Bulley & Andrews Concrete Restoration, LLC",Municipal,,,,2020-02-18,,2024-03-19
+1163808,Amhurst Lofts Vaulted Terrace Repairs,"5200055 - Amhurst Lofts Vaulted Terrace Repairs","5200055","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,,,2020-02-18,,2024-08-06
+1163812,Harper College_Parking Garage Repairs,"5200056 - Harper College_Parking Garage Repairs","5200056","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-18,,2024-08-06
+1163817,BACR_C-19 Tracking (Delete),"520_C-19 - BACR_C-19 Tracking (Delete)","520_C-19","Bulley & Andrews Concrete Restoration, LLC",Mixed-Use Space,Tracking C-19 Documents for BACR,2020-04-28,2020-04-28,2020-04-01,2020-04-28,2024-03-19
+1164102,"425 E. Erie","4200043 - 425 E. Erie","4200043","Bulley & Andrews Masonry Restoration, LLC",Healthcare,Roof Anchors,2020-03-02,2020-03-06,2020-03-02,2020-03-06,2024-03-19
+1164246,LU Lewis Tower (phase 2 repairs),"4200390 - LU Lewis Tower (phase 2 repairs)","4200390","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-18,,2024-03-19
+1164253,"1603 Orrington","4200022 - 1603 Orrington","4200022","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-18,,2024-08-06
+1164261,Olympia Fields Country Club,"4200003 - Olympia Fields Country Club","4200003","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-18,,2024-03-19
+1164266,"730 S. Clark","4200023 - 730 S. Clark","4200023","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-18,,2024-03-19
+1164272,Groves of Palatine,"4200027 - Groves of Palatine","4200027","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-01-01,2020-12-31,2019-12-16,2020-10-09,2024-03-19
+1164281,"2626 N. Lakeview","4200031 - 2626 N. Lakeview","4200031","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-02-18,,2024-03-19
+1164288,VA Indy and Madison (inspection),"4200032 - VA Indy and Madison (inspection)","4200032","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-02-18,,2024-03-19
+1164304,TBC @ IIT,"4200033 - TBC @ IIT","4200033","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-18,,2024-03-19
+1164310,"209 E Lake Shore Dr. (west leak)","4200037 - 209 E Lake Shore Dr. (west leak)","4200037","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-04-01,2020-04-24,2020-04-01,2020-04-24,2024-03-19
+1164318,Union Station Hotel Nashville,"4200040 - Union Station Hotel Nashville","4200040","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-18,,2024-03-19
+1164324,"1769 & 1819 W. Pershing (inspection)","4200041 - 1769 & 1819 W. Pershing (inspection)","4200041","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1164331,Acero - Sor Juana Inés de la Cruz,"4200046 - Acero - Sor Juana Inés de la Cruz","4200046","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,2022-07-01,2022-07-01,2022-07-01,2022-07-01,2024-03-19
+1164348,RCC Court #1,"4200047 - RCC Court #1","4200047","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-02-18,,2024-03-19
+1164355,VU Mueller Hall,"4200054 - VU Mueller Hall","4200054","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1164363,Sacred Heart,"4200061 - Sacred Heart","4200061","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-02-18,,2024-03-19
+1164366,Yard - CMU Wall for BACR,"4200065 - Yard - CMU Wall for BACR","4200065","Bulley & Andrews Masonry Restoration, LLC",Industrial,,,,2020-02-18,,2024-03-19
+1164368,Ingalls Memorial Hospital (North Building),"4200072 - Ingalls Memorial Hospital (North Building)","4200072","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-02-18,,2024-03-19
+1164374,UC Goodspeed / Classics / Weibolt,"4200098 - UC Goodspeed / Classics / Weibolt","4200098","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-06-15,2020-09-11,2020-06-15,2020-09-11,2024-03-19
+1165039,Procore Training,"12345 - Procore Training","12345","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-02-01,,2020-02-01,,2024-08-06
+1165916,SoNo Condos,"4200106 - SoNo Condos","4200106","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-19,,2024-08-06
+1166290,NU Cahn Auditorium,"4200004 - NU Cahn Auditorium","4200004","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,,,2020-02-19,,2024-08-06
+1166334,"2020 Structural Rehabilitation_Thorn Creek Basin Sanitary Disctrict","5200058 - 2020 Structural Rehabilitation_Thorn Creek Basin Sanitary Disctrict","5200058","Bulley & Andrews Concrete Restoration, LLC",Municipal,,,,2020-02-19,,2024-08-06
+1167040,Test Project Part 2,"12345 - Test Project Part 2","12345","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-02-01,,2020-02-01,,2024-03-19
+1167160,"701 West Jackson Lofts","4200005 - 701 West Jackson Lofts","4200005","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-08-06
+1167161,Holy Angels Gary,"4200006 - Holy Angels Gary","4200006","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,,,2020-02-20,,2024-08-06
+1167167,"411 S Sangamon","4200007 - 411 S Sangamon","4200007","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-20,,2024-03-19
+1167187,Adler Planetarium,"4200008 - Adler Planetarium","4200008","Bulley & Andrews Masonry Restoration, LLC",Museum,,,,2020-02-20,,2024-08-06
+1167191,"150 N Clinton","4200009 - 150 N Clinton","4200009","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-20,,2024-08-06
+1167200,WJE CMU Test Walls,"4200010 - WJE CMU Test Walls","4200010","Bulley & Andrews Masonry Restoration, LLC",Warehouse,,,,2020-02-20,,2024-08-06
+1167210,"St. Chrysostom's (2020 Phase 3 - Courtyard, South, West)","4200011 - St. Chrysostom's (2020 Phase 3 - Courtyard, South, West)","4200011","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,Masonry repairs,2020-05-07,2020-08-14,2020-05-07,2020-08-14,2024-03-19
+1167215,"2314 N. Lincoln Park West","4200012 - 2314 N. Lincoln Park West","4200012","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-08-06
+1167223,Lathrop Homes,"4200013 - Lathrop Homes","4200013","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-08-06
+1167230,IIT Research Tower,"4200014 - IIT Research Tower","4200014","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-20,,2024-08-06
+1167234,School District U-46,"4200015 - School District U-46","4200015","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-20,,2024-08-06
+1167253,"1301 N. Astor (budget)","4200016 - 1301 N. Astor (budget)","4200016","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-20,,2024-08-06
+1167260,"2nd Presbyterian (St. Paul Window)","4200017 - 2nd Presbyterian (St. Paul Window)","4200017","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1167265,Paul G Stewart Center 400 E 41st St,"4200018 - Paul G Stewart Center 400 E 41st St","4200018","Bulley & Andrews Masonry Restoration, LLC",Community Center,,2023-07-01,2023-07-02,2023-07-01,2023-07-02,2024-03-19
+1167266,NSUHS ICC - Arlington Heights,"1200177 - NSUHS ICC - Arlington Heights","1200177","Bulley & Andrews, LLC",Medical Office Building,Construction of a new Immediate Care Clinic for NorthShore University Health System,2020-03-25,2020-06-08,2020-03-25,2020-06-08,2024-03-19
+1167276,"First United Methodist Greensburg, IN","4200019 - First United Methodist Greensburg, IN","4200019","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,,,2020-02-20,,2024-08-06
+1167286,NSUHS ICC - Andersonville,"1200179 - NSUHS ICC - Andersonville","1200179","Bulley & Andrews, LLC",Medical Office Building,Construction of a new Immediate Care Clinic for NorthShore University Health System,2020-03-30,2020-07-12,2020-03-30,2020-07-12,2024-03-19
+1167296,NSUHS ICC & ORTHO - Bucktown,"1200180 - NSUHS ICC & ORTHO - Bucktown","1200180","Bulley & Andrews, LLC",Medical Office Building,Construction of a new Immediate Care Clinic & Ortho Clinic for NorthShore University Health System,2020-03-30,2020-07-20,2020-03-30,2020-07-20,2024-03-19
+1167458,Test Project Part 3,"12345 - Test Project Part 3","12345","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-02-01,2020-04-30,2020-02-01,2020-04-30,2024-03-19
+1167580,LU Lewis Towers (terra cotta repairs),"4200020 - LU Lewis Towers (terra cotta repairs)","4200020","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-20,,2024-08-06
+1167583,"711 S Dearborn St","4200021 - 711 S Dearborn St","4200021","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-08-06
+1167592,"260 E Chestnut","4200024 - 260 E Chestnut","4200024","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-03-19
+1167619,"106th St Bridge Houses","4200025 - 106th St Bridge Houses","4200025","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-20,,2024-08-06
+1167655,UIC NMRL,"4200028 - UIC NMRL","4200028","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-20,,2024-08-06
+1167662,Kankakee Community College,"4200029 - Kankakee Community College","4200029","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-20,,2024-08-06
+1167667,Noble Network of Charter Schools - Golder College Prep,"4200034 - Noble Network of Charter Schools - Golder College Prep","4200034","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-20,,2024-03-19
+1167698,"55 W Monroe","4200035 - 55 W Monroe","4200035","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-20,,2024-08-06
+1167704,"21 E Bellevue","4200036 - 21 E Bellevue","4200036","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-02-20,,2024-08-06
+1167732,Resurrection Lutheran Wrigleyville,"4200038 - Resurrection Lutheran Wrigleyville","4200038","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,,,2020-02-20,,2024-08-06
+1167739,Oak Park SD97,"4200039 - Oak Park SD97","4200039","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-20,,2024-08-06
+1167750,St Mary's Church (Indy),"4200042 - St Mary's Church (Indy)","4200042","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,,,2020-02-20,,2024-08-06
+1167968,Residences of Village Centre Condos,"4200044 - Residences of Village Centre Condos","4200044","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-20,,2024-08-06
+1168084,"201 W. Madison Street-Parking Garage Repairs","5200057 - 201 W. Madison Street-Parking Garage Repairs","5200057","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-20,,2024-08-06
+1168103,"284 Lies Road East","5200059 - 284 Lies Road East","5200059","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-20,,2024-08-06
+1168119,"401 N Wabash","4200115 - 401 N Wabash","4200115","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-20,,2024-03-19
+1168281,Soho House,"4200045 - Soho House","4200045","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-20,,2024-08-06
+1168377,Capital One Cafe Detroit,"4200048 - Capital One Cafe Detroit","4200048","Bulley & Andrews Masonry Restoration, LLC",Financial,,,,2020-02-21,,2024-08-06
+1168379,Huntley Community School,"4200049 - Huntley Community School","4200049","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-21,,2024-08-06
+1168380,"162 E Ohio","4200050 - 162 E Ohio","4200050","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-02-21,,2024-08-06
+1168381,Great Lakes Academy,"4200051 - Great Lakes Academy","4200051","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-21,,2024-03-19
+1168835,"3950 N Laske Shore Drive","4200052 - 3950 N Laske Shore Drive","4200052","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1168841,"104 S Michigan","4200053 - 104 S Michigan","4200053","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1168844,"1 E Schiller","4200055 - 1 E Schiller","4200055","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-08-06
+1168849,RCC Squash Court,"4200056 - RCC Squash Court","4200056","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-21,,2024-08-06
+1168854,"5136 S Blackstone","4200057 - 5136 S Blackstone","4200057","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-21,,2024-08-06
+1168856,Dwight Lofts,"4200059 - Dwight Lofts","4200059","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1168903,"3150 N Lake Shore Drive","4200060 - 3150 N Lake Shore Drive","4200060","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1168908,"200 N Dearborn (Pedway)","4200062 - 200 N Dearborn (Pedway)","4200062","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-05-11,2020-05-11,2020-05-11,2020-05-11,2024-03-19
+1168923,Lincoln Yards Marketing Center,"4200063 - Lincoln Yards Marketing Center","4200063","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-21,,2024-08-06
+1168942,"20 E Cedar","4200064 - 20 E Cedar","4200064","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1168951,UIC Lecture Hall Elevator,"4200066 - UIC Lecture Hall Elevator","4200066","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169116,Noble - Noble Street College Prep,"4200067 - Noble - Noble Street College Prep","4200067","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-21,,2024-08-06
+1169122,Noble - Hansberry College Prep,"4200068 - Noble - Hansberry College Prep","4200068","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-21,,2024-08-06
+1169125,UIC Soccer Field,"4200069 - UIC Soccer Field","4200069","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169129,Salud Center,"4200070 - Salud Center","4200070","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169138,"11221 S. Michigan","4200071 - 11221 S. Michigan","4200071","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169149,"202 & 220 S State St","4200074 - 202 & 220 S State St","4200074","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-21,,2024-08-06
+1169173,"4000 W Diversey","4200075 - 4000 W Diversey","4200075","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169175,"1250 N Dearborn","4200077 - 1250 N Dearborn","4200077","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-03-19
+1169204,not used,"4200079 - not used","4200079","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,2020-05-07,2020-05-07,2020-05-07,2020-05-07,2024-08-06
+1169209,Chicago Golf Club,"4200080 - Chicago Golf Club","4200080","Bulley & Andrews Masonry Restoration, LLC",Clubs,,2020-09-17,,2020-09-17,,2024-03-19
+1169212,"100 N LaSalle","4200081 - 100 N LaSalle","4200081","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2021-04-01,2021-05-14,2019-12-06,2020-09-28,2024-03-19
+1169217,VU Alumni Hall (2020),"4200082 - VU Alumni Hall (2020)","4200082","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169220,VU Lebein Hall,"4200083 - VU Lebein Hall","4200083","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169225,"1926 W Harrison","4200084 - 1926 W Harrison","4200084","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-21,,2024-08-06
+1169234,"1301 N Astor St. (inspection)","4200085 - 1301 N Astor St. (inspection)","4200085","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1169248,Sheraton,"4200086 - Sheraton","4200086","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-02-21,,2024-08-06
+1169254,ESSR Roof and Skylight (Missouri),"4200087 - ESSR Roof and Skylight (Missouri)","4200087","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-21,,2024-08-06
+1169260,"850 N Meridian (Indy)","4200088 - 850 N Meridian (Indy)","4200088","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-21,,2024-08-06
+1169267,"6793 S South Chicago","4200089 - 6793 S South Chicago","4200089","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-21,,2024-08-06
+1169276,"161 Chicago Ave East","4200090 - 161 Chicago Ave East","4200090","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1169278,Harley Clarke Mansion,"4200091 - Harley Clarke Mansion","4200091","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-21,,2024-08-06
+1169301,"525 W Van Buren","4200092 - 525 W Van Buren","4200092","Bulley & Andrews Masonry Restoration, LLC",Office,,,,2020-02-21,,2024-08-06
+1169310,"322 E Illinois","4200093 - 322 E Illinois","4200093","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,,,2020-02-21,,2024-08-06
+1169315,"30 E Huron","4200094 - 30 E Huron","4200094","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169337,Northwest Armory,"4200096 - Northwest Armory","4200096","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-21,,2024-08-06
+1169365,Advocate Lutheran General Hospital,"4200097 - Advocate Lutheran General Hospital","4200097","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-02-21,,2024-08-06
+1169368,Tailor Lofts,"4200099 - Tailor Lofts","4200099","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169377,The Buckingham,"4200100 - The Buckingham","4200100","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-21,,2024-08-06
+1169381,"11111 S Saint Lawrence","4200101 - 11111 S Saint Lawrence","4200101","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-21,,2024-08-06
+1169383,UIC Cobb Hall (scan model),"4200102 - UIC Cobb Hall (scan model)","4200102","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169385,Depaul South,"4200103 - Depaul South","4200103","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-08-06
+1169663,test123456,"6669x - test123456","6669x","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-21,,2024-03-19
+1169791,Ashley & Ashland Places,"4200112 - Ashley & Ashland Places","4200112","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-21,,2024-08-06
+1169829,UC Bartlett Hall,"4200116 - UC Bartlett Hall","4200116","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-21,,2024-03-19
+1170740,"160 N Wacker","4200117 - 160 N Wacker","4200117","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-02-24,,2024-08-06
+1170789,Joffrey Tower,"4200107 - Joffrey Tower","4200107","Bulley & Andrews Masonry Restoration, LLC",Financial,,2021-05-01,2021-09-30,2021-05-01,2021-09-30,2024-03-19
+1170871,cthomas,"12345 - cthomas","12345","Bulley & Andrews Masonry Restoration, LLC",Recreational,,,,2020-02-24,,2024-08-06
+1170943,CPS - Penn Elementary School,"4200118 - CPS - Penn Elementary School","4200118","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-24,,2024-08-06
+1171201,CPS - Reilly Elementary School,"4200119 - CPS - Reilly Elementary School","4200119","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-24,,2024-08-06
+1171223,jlabuz,"12345 - jlabuz","12345","Bulley & Andrews Masonry Restoration, LLC",Residential,Facade repairs.,,,2020-02-24,,2024-08-06
+1171506,"303 E. Wacker Dr. - Floor Recoat","5200061 - 303 E. Wacker Dr. - Floor Recoat","5200061","Bulley & Andrews Concrete Restoration, LLC",Mixed-Use Space,,,,2020-02-24,,2024-08-06
+1171565,"3270 North Lake Shore Drive_Parking Slab Repairs and Maintenance","5200062 - 3270 North Lake Shore Drive_Parking Slab Repairs and Maintenance","5200062","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-24,,2024-08-06
+1171974,Botanical Garden Stair Reconstruction,"4200120 - Botanical Garden Stair Reconstruction","4200120","Bulley & Andrews Masonry Restoration, LLC",Museum,,,,2020-02-24,,2024-08-06
+1172268,St. Joseph County Public Library - Main Library Renovation & Addition,"119142 - St. Joseph County Public Library - Main Library Renovation & Addition","119142","Bulley & Andrews, LLC",Library,"3-story renovation of the existing main library, and 3-story expansion to host a new technology center, community foundation space, courtyard, and auditorium. ",2020-02-25,2021-08-15,2019-07-22,2021-08-15,2024-08-06
+1172495,clee,"12345 - clee","12345","Bulley & Andrews Masonry Restoration, LLC",Restaurant,,2020-02-28,2020-10-23,2020-03-30,2020-06-30,2024-08-06
+1172514,Oak Park Public Library_Garage Repairs,"5200063 - Oak Park Public Library_Garage Repairs","5200063","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-02-25,,2024-08-06
+1172561,cconner,"12345 - cconner","12345","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-25,,2024-08-06
+1172626,Jtaylor,"1234 - Jtaylor","1234","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-25,,2024-03-19
+1172641,"900 W Fulton Market","4200105 - 900 W Fulton Market","4200105","Bulley & Andrews Masonry Restoration, LLC",Retail,,,,2020-02-25,,2024-08-06
+1172647,King Cole,"4200108 - King Cole","4200108","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,,,2020-02-25,,2024-08-06
+1172653,Ingalls Memorial Hospital,"4200110 - Ingalls Memorial Hospital","4200110","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-02-25,,2024-08-06
+1172658,U of C Concrete Replacement,"4200111 - U of C Concrete Replacement","4200111","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-25,,2024-08-06
+1172668,UC Press Journal,"4200114 - UC Press Journal","4200114","Bulley & Andrews Masonry Restoration, LLC",Corporate,,,,2020-02-25,,2024-08-06
+1172746,Prudential,"419043 - Prudential","419043","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2022-06-14,2022-06-14,2022-06-14,2022-06-14,2024-03-19
+1172861,jtaylor,"12345 - jtaylor","12345","Bulley & Andrews Masonry Restoration, LLC",Clubs,,,,2020-02-25,,2024-08-06
+1173078,"3875 City Hall Facade Restoration","4200121 - 3875 City Hall Facade Restoration","4200121","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-02-25,,2024-08-06
+1173229,ryester,"12345 - ryester","12345","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2022-01-01,2022-01-02,2022-01-01,2022-01-02,2024-03-19
+1173519,Hyatt Lodge,"4200113 - Hyatt Lodge","4200113","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,2020-07-29,2020-08-26,2020-07-29,2020-08-26,2024-03-19
+1173533,"3270 N Lake Shore Drive","4200122 - 3270 N Lake Shore Drive","4200122","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-02-25,,2024-08-06
+1173657,CPS - Addams Elementary,"4200123 - CPS - Addams Elementary","4200123","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1173809,CPS - Roger Sullivan High School,"4200124 - CPS - Roger Sullivan High School","4200124","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1173896,CPS - Charles W. Earle,"4200125 - CPS - Charles W. Earle","4200125","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1173938,CPS - Stevenson,"4200126 - CPS - Stevenson","4200126","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1174013,University Club of Chicago (lightcourt repair),"4200132 - University Club of Chicago (lightcourt repair)","4200132","Bulley & Andrews Masonry Restoration, LLC",Clubs,,2021-04-05,2021-06-01,2021-04-05,2021-06-01,2024-03-19
+1174014,CPS- Henry Clay Elementary,"4200133 - CPS- Henry Clay Elementary","4200133","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1174025,CPS - Denver Elementary Childhood Annex,"4200127 - CPS - Denver Elementary Childhood Annex","4200127","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-25,,2024-08-06
+1174189,VU Alumni Hall (2021),"4200134 - VU Alumni Hall (2021)","4200134","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-25,,2024-08-06
+1174653,"5733 N Sheridan Balcony Repairs","4200135 - 5733 N Sheridan Balcony Repairs","4200135","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-02-26,,2024-08-06
+1175015,"1448 N. Lake Shore Dr. (2020 inspection)","4200136 - 1448 N. Lake Shore Dr. (2020 inspection)","4200136","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-03,2020-06-26,2020-06-03,2020-06-26,2024-03-19
+1175307,CPS - Caldwell Academy,"4200128 - CPS - Caldwell Academy","4200128","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-26,,2024-08-06
+1175333,CPS - Durkin Park,"4200129 - CPS - Durkin Park","4200129","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-26,,2024-08-06
+1175352,CPS - Christopher ES,"4200130 - CPS - Christopher ES","4200130","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-26,,2024-08-06
+1175752,CPS - McKay,"4200131 - CPS - McKay","4200131","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-02-26,,2024-08-06
+1176910,Loyola 2020,"4200138 - Loyola 2020","4200138","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-05-22,2020-08-17,2024-08-06
+1177114,WNDR Museum,"4200137 - WNDR Museum","4200137","Bulley & Andrews Masonry Restoration, LLC",Museum,,,,2020-02-27,,2024-08-06
+1177594,cvins,"12345 - cvins","12345","Bulley & Andrews Masonry Restoration, LLC",Clubs,Sealant Restoration,2020-04-01,2020-12-18,2020-04-01,2020-12-18,2024-08-06
+1177765,Epoxy Injection at the Glenbard Wastewater Authority,"5200064 - Epoxy Injection at the Glenbard Wastewater Authority","5200064","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-02-27,,2024-08-06
+1177779,Printers Square Garage & Vault Repairs,"5200065 - Printers Square Garage & Vault Repairs","5200065","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-01,2020-05-01,2020-05-01,2020-05-01,2024-08-06
+1177789,"Harper College Wall Life Safety Improvements, Exterior Stairs, Sidewalk & Concrete Maintenance","5200066 - Harper College Wall Life Safety Improvements, Exterior Stairs, Sidewalk & Concrete Maintenance","5200066","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,,,2020-02-27,,2024-08-06
+1178536,Optima Signature Slab Penetrations,"5200077 - Optima Signature Slab Penetrations","5200077","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,Coring,,,2020-02-28,,2024-08-06
+1178772,test new project,"12345 - test new project","12345","Bulley & Andrews Masonry Restoration, LLC",Financial,,2020-02-28,2020-02-28,2020-03-27,2020-02-28,2024-03-19
+1178971,DePaul - College of Education,"4200139 - DePaul - College of Education","4200139","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-02-28,,2024-08-06
+1179049,Todd_Test Project,"520_Todd TEST - Todd_Test Project","520_Todd TEST","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,"Todd Test
+",2020-04-01,2020-06-01,2020-04-01,2020-06-01,2024-08-06
+1180307,Union Station Nashville,"4200140 - Union Station Nashville","4200140","Bulley & Andrews Masonry Restoration, LLC",Hospitality,Exterior building envelope repairs and roof replacement,,,2020-03-02,,2024-08-06
+1180870,DePaul School of Music,"419016 - DePaul School of Music","419016","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-03-02,,2024-03-19
+1180913,"3150 N. Sheridan","419066 - 3150 N. Sheridan","419066","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-03-02,,2024-03-19
+1180921,"1 Bloomingdale Place","4200141 - 1 Bloomingdale Place","4200141","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-03-02,,2024-08-06
+1180977,"4953 Oakton","419099 - 4953 Oakton","419099","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-02,,2024-03-19
+1180985,Kenmore Plaza Apartments,"419091 - Kenmore Plaza Apartments","419091","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-03-02,,2024-03-19
+1181486,BCEC Pedestrian Passageway,"5200067 - BCEC Pedestrian Passageway","5200067","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-03-02,,2024-08-06
+1181733,"2920 N Commonwealth","4200142 - 2920 N Commonwealth","4200142","Bulley & Andrews Masonry Restoration, LLC",Corporate,,,,2020-03-02,,2024-08-06
+1182209,Phase I - Building Renovation & Athletic Field,"119224 - Phase I - Building Renovation & Athletic Field","119224","Bulley & Andrews, LLC",K-12 School,"Interior demolition & build out 85,000 sq. ft. of existing space for a new high school. The scope of work includes a new athletic field, field house, bleachers, press box, & parking.  ",2020-03-02,2020-08-10,2020-03-02,2020-08-10,2024-08-06
+1183078,"9212 Stony Island","4200143 - 9212 Stony Island","4200143","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-03-03,,2024-08-06
+1183472,"5100 N. River Rd. Parking Garage Repair","5200068 - 5100 N. River Rd. Parking Garage Repair","5200068","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-03-03,,2024-08-06
+1183529,"1 N LaSalle","4200145 - 1 N LaSalle","4200145","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-03-03,,2024-03-19
+1183532,"1","4200144 - 1","4200144","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-03-12,2020-04-01,2020-03-12,2020-04-01,2024-03-19
+1183978,"5733 N Sheridan Road, Balcony Repair","5200069 - 5733 N Sheridan Road, Balcony Repair","5200069","Bulley & Andrews Concrete Restoration, LLC",Residential,Balcony topping slab replacement,,,2020-03-04,,2024-08-06
+1185151,CCR Training Project,ccr_test - CCR Training Project,ccr_test,"Bulley & Andrews, LLC",Clubs,,,,2020-03-04,,2024-08-06
+1185288,"Harper Court Phase II, PT Modifications","5200070 - Harper Court Phase II, PT Modifications","5200070","Bulley & Andrews Concrete Restoration, LLC",Mixed-Use Space,"Lock-off, de-stress and re-stress miscellaneous PT cable for deck modifications",,,2020-03-04,,2024-08-06
+1186315,Saddle & Cycle Club - Ballroom Renovations,"1200155 - Saddle & Cycle Club - Ballroom Renovations","1200155","Bulley & Andrews, LLC",Clubs,"Demo carpet flooring, install subfloor and new wood floor. Also includes minimal painting and millwork. ",2020-03-09,2020-10-07,2020-03-09,2020-10-07,2024-03-19
+1186599,Wrigley Building Planter Repairs,"4200144 - Wrigley Building Planter Repairs","4200144","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-05,,2024-08-06
+1187142,CV - test project 3.6.20,"12345 - CV - test project 3.6.20","12345","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-03-05,,2024-08-06
+1187820,CV - Test Project 3.6.20,"12345 - CV - Test Project 3.6.20","12345","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-03-06,,2024-08-06
+1187826,JJ Test Project,"1234 - JJ Test Project","1234","Bulley & Andrews, LLC",Historical Restoration,,2024-05-22,2024-05-23,2020-03-02,2020-04-27,2024-08-06
+1189866,Institutional Division Training Project,institutional_test - Institutional Division Training Project,institutional_test,"Bulley & Andrews, LLC",Mixed-Use Space,,,,2020-03-09,,2024-08-06
+1189873,"1201 West Washington","4200146 - 1201 West Washington","4200146","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-03-09,,2024-08-06
+1189879,"1000 W Fulton Market","4200147 - 1000 W Fulton Market","4200147","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-09,,2024-08-06
+1190813,"1932 N Burling","5200072 - 1932 N Burling","5200072","Bulley & Andrews Concrete Restoration, LLC",Residential,Concrete repairs,,,2020-03-09,,2024-08-06
+1190841,Wrigley Building Planters,"5200073 - Wrigley Building Planters","5200073","Bulley & Andrews Concrete Restoration, LLC",Commercial,Concrete planter repairs,,,2020-03-09,,2024-08-06
+1191041,IIT Basement Epoxy Injection (NE Corner Office),"5200071 - IIT Basement Epoxy Injection (NE Corner Office)","5200071","Bulley & Andrews Concrete Restoration, LLC",Commercial,Epoxy Injection (Emergency),,,2020-03-09,,2024-08-06
+1191078,NBC Tower Exploratory Opening at Plaza Stair,"5200060 - NBC Tower Exploratory Opening at Plaza Stair","5200060","Bulley & Andrews Concrete Restoration, LLC",Plaza,Exploratory Opening at Plaza Stair,,,2020-03-09,,2024-08-06
+1191166,"765 W Adams","4200148 - 765 W Adams","4200148","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-03-09,,2024-08-06
+1191232,Healthcare Division Training Project,healthcare_training - Healthcare Division Training Project,healthcare_training,"Bulley & Andrews, LLC",Medical Office Building,,,,2020-03-09,,2024-08-06
+1191263,Northwestern Naperville,"4200149 - Northwestern Naperville","4200149","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-03-09,,2024-08-06
+1192176,Mason & Rook,"4200150 - Mason & Rook","4200150","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-03-10,,2024-08-06
+1192201,Hotel Zena,"4200151 - Hotel Zena","4200151","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-03-10,,2024-08-06
+1192384,"1932 N. Burling","4200152 - 1932 N. Burling","4200152","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-03-10,,2024-08-06
+1192472,LU Mundelein (facade),"4200153 - LU Mundelein (facade)","4200153","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-08-03,2020-09-01,2020-08-03,2020-09-01,2024-08-06
+1192484,LU Cudahy Library,"4200154 - LU Cudahy Library","4200154","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-07-27,2020-09-01,2020-07-27,2020-09-01,2024-08-06
+1192519,"160 N. LaSalle","4200155 - 160 N. LaSalle","4200155","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-10,,2024-08-06
+1193600,"20 N. Clark Slab Repair","5200074 - 20 N. Clark Slab Repair","5200074","Bulley & Andrews Concrete Restoration, LLC",Corporate,,2021-06-01,2021-06-30,2021-06-01,2021-06-30,2024-08-06
+1194015,LU Lewis Towers (planter repairs),"4200156 - LU Lewis Towers (planter repairs)","4200156","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-11,,2024-03-19
+1194370,Kelloggs,"4200157 - Kelloggs","4200157","Bulley & Andrews Masonry Restoration, LLC",Corporate,,2020-06-05,2020-06-05,2020-06-05,2020-06-05,2024-08-06
+1194500,"720 Butterfield Garage Drive Lane Recoat","5200075 - 720 Butterfield Garage Drive Lane Recoat","5200075","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-03-11,,2024-08-06
+1195369,"3555 N Broadway","4200158 - 3555 N Broadway","4200158","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-03-12,,2024-08-06
+1195664,James Test Project (Delete),"520_James Test  - James Test Project (Delete)","520_James Test ","Bulley & Andrews Concrete Restoration, LLC",Clubs,,2020-04-01,2023-02-28,2020-04-01,2023-02-28,2024-03-19
+1196928,Advocate Central Pharmacy Buildout,"1200130 - Advocate Central Pharmacy Buildout","1200130","Bulley & Andrews, LLC",Healthcare,Phase 2a Electrical,,,2020-03-13,,2024-03-19
+1197980,Olympia Fields Country Club,"4200159 - Olympia Fields Country Club","4200159","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-13,,2024-08-06
+1199364,NM Glenview 2nd Floor Buildout,"1200112 - NM Glenview 2nd Floor Buildout","1200112","Bulley & Andrews, LLC",Healthcare,"2500sf renovation of existing office space to convert into new exam rooms.  Includes new flooring, carpeting, millwork, plumbing, and partition wall and ceiling revisions.",2020-06-01,2020-07-13,2020-06-01,2020-07-13,2024-03-19
+1199627,Magnolia Hotel,"418070 - Magnolia Hotel","418070","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,,,2020-03-16,,2024-03-19
+1199830,"1130 S Michigan","4200162 - 1130 S Michigan","4200162","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-03-16,,2024-08-06
+1199849,Holy Trinity Church Budget,"4200161 - Holy Trinity Church Budget","4200161","Bulley & Andrews Masonry Restoration, LLC",Non-Profit,,,,2020-03-16,,2024-08-06
+1199991,"4901 Searle Pkwy Masonry Repairs","4200160 - 4901 Searle Pkwy Masonry Repairs","4200160","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-16,,2024-08-06
+1202676,Automatic Lofts - Garage Repairs,"5200078 - Automatic Lofts - Garage Repairs","5200078","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-03-18,,2024-08-06
+1202705,NBC Tower - Plaza Stair,"5200079 - NBC Tower - Plaza Stair","5200079","Bulley & Andrews Concrete Restoration, LLC",Plaza,,,,2020-03-18,,2024-08-06
+1202730,Randolph Street Bridgehouse,"4200163 - Randolph Street Bridgehouse","4200163","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-01-01,2020-12-31,2020-01-01,2020-12-31,2024-03-19
+1202981,CPS - Prosser,"4200164 - CPS - Prosser","4200164","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-18,,2024-08-06
+1203070,CPS - Fernwood,"4200165 - CPS - Fernwood","4200165","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-18,,2024-08-06
+1203085,CPS - Garvey,"4200166 - CPS - Garvey","4200166","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-18,,2024-08-06
+1203610,CDOT Navy Pier Flyover,"419005 - CDOT Navy Pier Flyover","419005","Bulley & Andrews Masonry Restoration, LLC",Municipal,,2020-01-01,2022-05-01,2020-01-01,2022-05-01,2024-08-06
+1203614,Stockyard Bank Building,"4200167 - Stockyard Bank Building","4200167","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-18,,2024-08-06
+1203998,The Casino Club Renovation,"1200135 - The Casino Club Renovation","1200135","Bulley & Andrews, LLC",Clubs,Roof replacement project.,2020-08-17,2020-09-18,2020-08-17,2020-09-18,2024-03-19
+1204835,"71 S Wacker Leak Investigation","4200168 - 71 S Wacker Leak Investigation","4200168","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-19,,2024-08-06
+1205078,"16th Street Bridges","4200169 - 16th Street Bridges","4200169","Bulley & Andrews Masonry Restoration, LLC",Municipal,,,,2020-03-19,,2024-08-06
+1205825,"71 S. Wacker - B1 Leak Investigation","5200080 - 71 S. Wacker - B1 Leak Investigation","5200080","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-03-20,,2024-08-06
+1206961,"2111 W. Roosevelt Rd. - Loading Dock","5200081 - 2111 W. Roosevelt Rd. - Loading Dock","5200081","Bulley & Andrews Concrete Restoration, LLC",Corporate,,2020-05-05,2020-05-05,2020-05-05,2020-05-05,2024-08-06
+1210452,Writers Theatre,"4200170 - Writers Theatre","4200170","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-25,,2024-08-06
+1211384,Butler University Science Addition & Renovation,"4200171 - Butler University Science Addition & Renovation","4200171","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-25,,2024-08-06
+1211968,NBC Tower,"4200172 - NBC Tower","4200172","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-03-26,,2024-08-06
+1212332,Automatic Lofts - Garage,"4200173 - Automatic Lofts - Garage","4200173","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,,,2020-03-26,,2024-08-06
+1212733,Raclin Murphy Museum of Art,"119181 - Raclin Murphy Museum of Art","119181","Bulley & Andrews, LLC",Museum,New construction of 3 story Art Museum at the University of Notre Dame,2021-04-05,2023-04-30,2022-06-01,2023-12-04,2024-08-06
+1213307,LM test,"12345 - LM test","12345","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-03-27,,2024-08-06
+1213697,Capital One Cafe - Detroit,"119166 - Capital One Cafe - Detroit","119166","Bulley & Andrews, LLC",Corporate,interior 2-story buildout,2020-08-24,2021-04-21,2019-06-28,2021-04-21,2024-03-19
+1214901,Park School,"4200174 - Park School","4200174","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-30,,2024-08-06
+1214924,Orland Jr High Schools,"4200175 - Orland Jr High Schools","4200175","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-30,,2024-08-06
+1214929,Orland Jr High School - Masonry Improvements,"4200176 - Orland Jr High School - Masonry Improvements","4200176","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-03-30,,2024-08-06
+1217314,Mayfair Mall Parking Structure Repairs,"5200082 - Mayfair Mall Parking Structure Repairs","5200082","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-01,,2024-08-06
+1217323,Oak Park District 97 Summer 2020 Renovations,"1200108 - Oak Park District 97 Summer 2020 Renovations","1200108","Bulley & Andrews, LLC",K-12 School,Multiple school renovations and life safety systems upgrades,2020-06-08,2020-08-24,2020-06-08,2020-08-24,2024-03-19
+1218739,(Re-Bid) Indianapolis - Market District Parking Garage Repairs,"5200083 - (Re-Bid) Indianapolis - Market District Parking Garage Repairs","5200083","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-02,,2024-08-06
+1218774,Northwestern University - Ryan Field 2020/2021 Repair & Maintenance,"5200084 - Northwestern University - Ryan Field 2020/2021 Repair & Maintenance","5200084","Bulley & Andrews Concrete Restoration, LLC",Recreational,,,,2020-04-02,,2024-08-06
+1219228,Army Corps of Engineering - Sherman Hospital,"1200230 - Army Corps of Engineering - Sherman Hospital","1200230","Bulley & Andrews, LLC",Healthcare,,2020-04-01,2020-04-15,2020-04-01,2020-04-15,2024-03-19
+1219301,Army Corps of Engineering - Westlake Hospital,"1200232 - Army Corps of Engineering - Westlake Hospital","1200232","Bulley & Andrews, LLC",Healthcare,,2020-04-03,2020-04-24,2020-04-03,2020-04-24,2024-05-13
+1219521,The Barry Condominium,"4200177 - The Barry Condominium","4200177","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-02,,2024-08-06
+1220489,"Mid America Plaza, Parking Deck Snowplow Damage","5200085 - Mid America Plaza, Parking Deck Snowplow Damage","5200085","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-03,,2024-08-06
+1220954,"Sherman Hospital, Mechanical Pads","5200086 - Sherman Hospital, Mechanical Pads","5200086","Bulley & Andrews Concrete Restoration, LLC",Healthcare,Place new mechanical pads,,,2020-04-04,,2024-08-06
+1221573,"270 E Pearson (inspection)","4200178 - 270 E Pearson (inspection)","4200178","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-04-06,,2024-08-06
+1223042,UC 5736 S Woodlawn,"4200179 - UC 5736 S Woodlawn","4200179","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-04-07,,2024-08-06
+1223628,D_Stanek_Test Project,"520TEST123 - D_Stanek_Test Project","520TEST123","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2022-02-07,2022-10-14,2022-02-07,2022-10-03,2024-08-06
+1223757,Argonne National Lab - 370 Lab C Floor Prep,"5200087 - Argonne National Lab - 370 Lab C Floor Prep","5200087","Bulley & Andrews Concrete Restoration, LLC",Laboratory,,,,2020-04-07,,2024-08-06
+1224202,UChicago GCIS PME Squires Lab Renovation,"1200190 - UChicago GCIS PME Squires Lab Renovation","1200190","Bulley & Andrews, LLC",Cleanroom / Controlled Environment Spaces,"Renovation of existing lab space and offices for new researcher.  Laser labs, offices and support space",2020-05-18,2020-08-28,2020-05-18,2020-08-28,2024-03-19
+1224273,UChicago Squires Lab,"1200190x - UChicago Squires Lab","1200190x","Bulley & Andrews, LLC",Laboratory,,2020-05-18,2020-08-28,2020-05-18,2020-08-28,2024-03-19
+1225051,UChicago Searle 2nd Floor Renovatoin,"119272x - UChicago Searle 2nd Floor Renovatoin","119272x","Bulley & Andrews, LLC",Laboratory,Renovation of 2nd floor of Searle for new wet laboratories and associated offices and support spaces.,2020-06-15,2021-02-12,2020-06-15,2021-02-12,2024-03-19
+1226044,"1640 N. Maple","419079 - 1640 N. Maple","419079","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-09,,2024-03-19
+1226224,"3033 N. Sheridan","4200180 - 3033 N. Sheridan","4200180","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-04-09,,2024-08-06
+1226593,"2042 N. Clark","4200181 - 2042 N. Clark","4200181","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-04-10,,2024-08-06
+1226600,"30 E. Huron","4200182 - 30 E. Huron","4200182","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,,,2020-04-10,,2024-08-06
+1226662,Senate Avenue Parking Garage 2020 Expansion Joint Replacement,"5200088 - Senate Avenue Parking Garage 2020 Expansion Joint Replacement","5200088","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-10,,2024-08-06
+1227873,"2626 N Lakeview Elevator Modernization","4200183 - 2626 N Lakeview Elevator Modernization","4200183","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-13,,2024-08-06
+1227998,"611 Randolph Street","4200184 - 611 Randolph Street","4200184","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,,,2020-04-13,,2024-08-06
+1228000,Molex Campus Lisle,"4200185 - Molex Campus Lisle","4200185","Bulley & Andrews Masonry Restoration, LLC",Healthcare,,,,2020-04-13,,2024-08-06
+1228073,Centre Parking Structure Repairs,"5200089 - Centre Parking Structure Repairs","5200089","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-13,,2024-08-06
+1228286,"1337 Fargo Ave","4200191 - 1337 Fargo Ave","4200191","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,,,2020-04-13,,2024-08-06
+1228831,LU Mundelein (room 409),"4200186 - LU Mundelein (room 409)","4200186","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-07-15,2020-07-29,2020-07-15,2020-07-29,2024-03-19
+1228939,Soldier Field - Stadium Bowl Sealant,"5200090 - Soldier Field - Stadium Bowl Sealant","5200090","Bulley & Andrews Concrete Restoration, LLC",Performance Space,,,,2020-04-14,,2024-08-06
+1228941,Soldier Field - Parking Garage Maintenance,"5200091 - Soldier Field - Parking Garage Maintenance","5200091","Bulley & Andrews Concrete Restoration, LLC",Performance Space,,,,2020-04-14,,2024-08-06
+1229004,Soldier Field - Stadium Facade,"5200092 - Soldier Field - Stadium Facade","5200092","Bulley & Andrews Concrete Restoration, LLC",Performance Space,,,,2020-04-14,,2024-08-06
+1229690,Educational Training Project,educational_test - Educational Training Project,educational_test,"Bulley & Andrews, LLC",K-12 School,,,,2020-04-14,,2024-08-06
+1229735,"1660 Condominium Parking Garage Repairs","5200095 - 1660 Condominium Parking Garage Repairs","5200095","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,,,2020-04-14,,2024-08-06
+1229753,Optima Towers (balcony doors),"4200188 - Optima Towers (balcony doors)","4200188","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-01,2020-06-12,2020-06-01,2020-06-12,2024-03-19
+1230045,Westlake Hospital - Mechanical Pads,"5200093 - Westlake Hospital - Mechanical Pads","5200093","Bulley & Andrews Concrete Restoration, LLC",Healthcare,New mechanical pads,2020-04-17,2020-04-24,2020-04-17,2020-04-24,2024-08-06
+1230211,The Chicago Club,"4200189 - The Chicago Club","4200189","Bulley & Andrews Masonry Restoration, LLC",Private Club,annual repairs,2020-04-27,2020-05-08,2020-04-27,2020-05-08,2024-08-06
+1230413,"550 W. Randolph (150 N Clinton)","4200190 - 550 W. Randolph (150 N Clinton)","4200190","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-15,,2024-08-06
+1230810,"600 W. Chicago Topping Slab Replacement","5200094 - 600 W. Chicago Topping Slab Replacement","5200094","Bulley & Andrews Concrete Restoration, LLC",Commercial,Topping slab replacement,2020-04-15,,2020-04-15,,2024-08-06
+1231449,"209 E Lake Shore Dr. (front leak repairs)","4200192 - 209 E Lake Shore Dr. (front leak repairs)","4200192","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-01,2020-06-02,2020-06-01,2020-06-02,2024-03-19
+1231479,Chicago Riverwalk Steel Grate - Clark Street,"5200096 - Chicago Riverwalk Steel Grate - Clark Street","5200096","Bulley & Andrews Concrete Restoration, LLC",Municipal,,,,2020-04-16,,2024-08-06
+1232145,UChicago Jai Yu Lab Remodel,"1200244 - UChicago Jai Yu Lab Remodel","1200244","Bulley & Andrews, LLC",Laboratory,,2020-06-01,2020-07-24,2020-06-01,2020-07-24,2024-03-19
+1232150,Oakmont Way Balcony Repairs Phase 2,"5200097 - Oakmont Way Balcony Repairs Phase 2","5200097","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,,,2020-04-16,,2024-08-06
+1232162,University of Chicago Searle 2nd Floor Renovation - Szostak Lab & Computational,"119272xx - University of Chicago Searle 2nd Floor Renovation - Szostak Lab & Computational","119272xx","Bulley & Andrews, LLC",Laboratory,Renovation of 2nd floor of Searle for new wet laboratories for Jack Szostak and associated offices and support spaces.  Also includes renovation of south half of floor for computational sciences offices,2022-03-28,2022-09-30,2022-03-28,2022-09-30,2024-03-19
+1232646,Chicago Union Station,"4200193 - Chicago Union Station","4200193","Bulley & Andrews Masonry Restoration, LLC",Commercial,"The area of work is limited to the Clinton Street façade, from grade up to the 3rd floor parapet. The scope includes 100% repointing of the limestone, isolated limestone repair/replacement, parapet wall rehabilitation, 2nd floor light court roofing replacement, and alternates for additional limestone replacement, granite flame finish and limestone cleaning.",,,2020-04-17,,2024-08-06
+1232718,TEST - Depaul SOM,"12345 - TEST - Depaul SOM","12345","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-05-04,,2020-05-04,,2024-03-19
+1233011,"1660 N LaSalle Parking Garage Repairs","4200194 - 1660 N LaSalle Parking Garage Repairs","4200194","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-17,,2024-08-06
+1233287,Restoration of Pool Deck at Munster High School (Indiana),"5200098 - Restoration of Pool Deck at Munster High School (Indiana)","5200098","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-04-17,,2024-08-06
+1233982,Belden Stratford,"4200195 - Belden Stratford","4200195","Bulley & Andrews Masonry Restoration, LLC",Commercial,,,,2020-04-20,,2024-08-06
+1234166,Cosmopolitan Apartments,"4200196 - Cosmopolitan Apartments","4200196","Bulley & Andrews Masonry Restoration, LLC",Residential,,,,2020-04-20,,2024-08-06
+1234811,"616 W Fulton Facade Repairs","4200197 - 616 W Fulton Facade Repairs","4200197","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-08-10,,2020-08-10,,2024-03-19
+1234905,"1735 N. Ashland (trash enclosure)","4200198 - 1735 N. Ashland (trash enclosure)","4200198","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,,,2020-04-20,,2024-08-06
+1235218,"220 E. Illinois Stair Opening","5200099 - 220 E. Illinois Stair Opening","5200099","Bulley & Andrews Concrete Restoration, LLC",Commercial,,,,2020-04-21,,2024-08-06
+1235608,(Boston) Hilton Vaulted Sidewalk Repairs,"5200100 - (Boston) Hilton Vaulted Sidewalk Repairs","5200100","Bulley & Andrews Concrete Restoration, LLC",Historical Restoration,,2020-05-08,2020-12-31,2020-05-08,2020-12-31,2024-08-06
+1238187,"3033 N. Sheridan - Facade Repairs","4200201 - 3033 N. Sheridan - Facade Repairs","4200201","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-05-01,2020-05-01,2020-05-01,2020-05-01,2024-08-06
+1240785,"209 E Lake Shore Dr. (penthouse)","4200187 - 209 E Lake Shore Dr. (penthouse)","4200187","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-05-01,2020-05-29,2020-05-01,2020-05-29,2024-03-19
+1241928,Intrinsic Charter School,"4200200 - Intrinsic Charter School","4200200","Bulley & Andrews Masonry Restoration, LLC",K-12 School,,2020-05-04,2020-05-29,2020-05-04,2020-05-29,2024-03-19
+1242132,Monadnock (Federal Elevation Fire Escape),"4200199 - Monadnock (Federal Elevation Fire Escape)","4200199","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,2020-04-28,2020-07-04,2020-04-28,2020-07-04,2024-03-19
+1242603,Royal Sonesta Chicago Riverfront,"1200127 - Royal Sonesta Chicago Riverfront","1200127","Bulley & Andrews, LLC",Hospitality,Model room renovations,2020-05-05,2020-06-25,2020-05-04,2020-06-19,2024-03-19
+1242638,Covid Tracking 2020,"520_C19 - Covid Tracking 2020","520_C19","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-04-20,2021-07-30,2020-04-20,2021-07-30,2024-08-06
+1243251,"1755 E 55th St","4200202 - 1755 E 55th St","4200202","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-06-08,2020-07-03,2020-06-08,2020-07-03,2024-08-06
+1243377,St. Agnes of Bohemia Parish,"4200203 - St. Agnes of Bohemia Parish","4200203","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,2020-04-29,2020-05-12,2020-04-29,2020-05-12,2024-08-06
+1243476,Promontory Apartments Facade inspections and Limited Repairs,"4200204 - Promontory Apartments Facade inspections and Limited Repairs","4200204","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-04-29,2020-05-14,2020-04-29,2020-05-14,2024-08-06
+1243826,Bulley & Andrews Internal Files,ba_docs - Bulley & Andrews Internal Files,ba_docs,"Bulley & Andrews, LLC",Cleanroom / Controlled Environment Spaces,Internal project for B&A documents including the Pursuit & Award Log,2020-04-29,2020-04-29,2020-04-29,2020-04-29,2024-08-06
+1243916,Deerpath Inn Injection,"5200101 - Deerpath Inn Injection","5200101","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-04-30,2020-05-07,2020-04-30,2020-05-07,2024-08-06
+1245575,Mondrian Hotel - NDC Seismic Ordinance,"5200102 - Mondrian Hotel - NDC Seismic Ordinance","5200102","Bulley & Andrews Concrete Restoration, LLC",Hospitality,Seismic retrofit,2020-04-30,2020-04-30,2020-04-30,2020-04-30,2024-08-06
+1247539,"2020 Balcony Repair Replacement_The Parkshore Cooperative","5200103 - 2020 Balcony Repair Replacement_The Parkshore Cooperative","5200103","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,2020-05-11,2020-05-11,2020-05-11,2020-05-11,2024-08-06
+1247587,Gallery of Park Ridge Condominiums,"4200206 - Gallery of Park Ridge Condominiums","4200206","Bulley & Andrews Masonry Restoration, LLC",Multi-Tenant,,2020-06-15,2020-08-28,2020-06-15,2020-08-28,2024-08-06
+1248034,"183 W Monroe Garage TBM","5200104 - 183 W Monroe Garage TBM","5200104","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,Minor concrete patch and TBM re-coat,2020-05-04,2020-05-04,2020-05-04,2020-05-04,2024-08-06
+1248157,"909 Davis St Facade Repairs","4200205 - 909 Davis St Facade Repairs","4200205","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-01,2020-07-03,2020-06-01,2020-07-03,2024-08-06
+1248841,Mayslake Hall (inspection),"4200207 - Mayslake Hall (inspection)","4200207","Bulley & Andrews Masonry Restoration, LLC",Municipal,,2020-05-05,2020-05-05,2020-05-05,2020-05-05,2024-03-19
+1248888,"Boston Westin Waterfront Hotel, Garage Repair","5200105 - Boston Westin Waterfront Hotel, Garage Repair","5200105","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,Garage repair,2020-05-05,2020-05-05,2020-05-05,2020-05-05,2024-08-06
+1248965,NU Technological Institute,"4200208 - NU Technological Institute","4200208","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-07,2020-06-05,2020-05-07,2020-06-05,2024-03-19
+1249524,disable,inactive - disable,inactive,"Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-06-15,2020-09-07,2020-06-15,2020-09-07,2024-03-19
+1249717,Optima Towers - Mechanical Well Repairs,"4200211 - Optima Towers - Mechanical Well Repairs","4200211","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-05-05,2020-05-05,2020-05-05,2020-05-05,2024-08-06
+1251112,IU Teter Quad Tunnel - Waterproofing,"5200106 - IU Teter Quad Tunnel - Waterproofing","5200106","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,Tunnel waterproofing,2020-05-06,2020-05-06,2020-05-06,2020-05-06,2024-08-06
+1252257,"Glenbrook Hospital, Electrical Vault Lid Repair","5200107 - Glenbrook Hospital, Electrical Vault Lid Repair","5200107","Bulley & Andrews Concrete Restoration, LLC",Healthcare,"Patch concrete, seal cracks and install TBM",2020-05-07,2020-05-07,2020-05-07,2020-05-07,2024-08-06
+1252873,GLA Summer Work 2020,"1200100 - GLA Summer Work 2020","1200100","Bulley & Andrews, LLC",K-12 School,Interior renovation,2020-06-08,2020-08-14,2020-06-08,2020-08-14,2024-03-19
+1252990,Lake County Parking Garage Repairs & Rehab,"5200108 - Lake County Parking Garage Repairs & Rehab","5200108","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-12,2020-12-31,2020-05-12,2020-12-31,2024-08-06
+1253063,rmoreno,"12345 - rmoreno","12345","Bulley & Andrews Masonry Restoration, LLC",Corporate,,2020-05-13,2020-05-27,2020-05-13,2020-05-27,2024-03-19
+1253247,WeWork 222 Riverside 16th Floor,"1200253 - WeWork 222 Riverside 16th Floor","1200253","Bulley & Andrews, LLC",Corporate,Interior buildout for WeWork on the 16th floor of office building. ,2020-08-24,2020-12-22,2020-08-24,2020-12-22,2024-08-06
+1254212,"1130 S Michigan Second Floor, East Entry & Loading Dock","5200109 - 1130 S Michigan Second Floor, East Entry & Loading Dock","5200109","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,"The project involves waterproofing replacement, paver replacement, concrete repairs, topping and coating to the following areas at 1130 South Michigan Avenue:
+
+East Side Entry
+West Side Loading Dock
+Second Floor: North and South Amenity Decks
+Lower Level",2019-04-01,2020-12-31,2019-04-01,2020-12-31,2024-08-06
+1254322,Wrigley Building,"4200212 - Wrigley Building","4200212","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-11,2020-05-28,2020-05-11,2020-05-28,2024-08-06
+1254428,"1006 S Michigan Ave","4200213 - 1006 S Michigan Ave","4200213","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-11,2020-05-27,2020-05-11,2020-05-27,2024-08-06
+1255507,Sandburg Village - Germania Place Slab Repair,"5200110 - Sandburg Village - Germania Place Slab Repair","5200110","Bulley & Andrews Concrete Restoration, LLC",Residential,,2020-05-12,2020-12-31,2020-05-12,2020-12-31,2024-08-06
+1255647,"Hyatt Lodge, Oak Brook - Entrance Planter Waterproofing","5200111 - Hyatt Lodge, Oak Brook - Entrance Planter Waterproofing","5200111","Bulley & Andrews Concrete Restoration, LLC",Hospitality,Replace failed waterproofing at two planter boxes at lobby entrance,2020-05-12,2020-05-12,2020-05-12,2020-05-12,2024-08-06
+1256239,O'Hare Plaza - Metal flashing,"5200112 - O'Hare Plaza - Metal flashing","5200112","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-05-12,2020-05-15,2020-05-12,2020-05-15,2024-08-06
+1256456,"1819 S Michigan","4200216 - 1819 S Michigan","4200216","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,2020-05-12,2020-05-13,2020-05-12,2020-05-13,2024-08-06
+1256941,Highland Landmark II 2020 Garage Maintenance,"5200113 - Highland Landmark II 2020 Garage Maintenance","5200113","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-19,2020-12-31,2020-05-19,2020-12-31,2024-08-06
+1256944,Shoring Plan - Brookwood on the Greens,"5200114 - Shoring Plan - Brookwood on the Greens","5200114","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-05-20,2020-07-31,2020-05-20,2020-07-31,2024-08-06
+1257422,"1100 LSD Plumbing Risers","119234 - 1100 LSD Plumbing Risers","119234","Bulley & Andrews, LLC",Multi-Tenant,"Domestic Water pipe replacement - Horizontal distribution, express and risers. ",2020-01-20,2020-08-14,2020-01-20,2020-08-14,2024-03-19
+1257456,Deer Path Inn,"4200214 - Deer Path Inn","4200214","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,2020-05-13,2020-05-15,2020-06-22,2020-07-03,2024-03-19
+1257753,Lyric Opera Seat Replacement,"1200245 - Lyric Opera Seat Replacement","1200245","Bulley & Andrews, LLC",Performance Space,"Remove existing seats, recountor the auditorium floor, rework electric & HVAC in auditorium, repaint and recarpet the floor",2020-06-22,2020-08-22,2019-06-04,2020-11-18,2024-03-19
+1258620,Loyola Santa Clara Basement Repairs,"5200115 - Loyola Santa Clara Basement Repairs","5200115","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-14,2020-12-31,2020-05-14,2020-12-31,2024-08-06
+1259074,UC I House,"4200215 - UC I House","4200215","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-14,2020-05-28,2020-05-14,2020-05-28,2024-08-06
+1259174,"1 N LaSalle","5200116 - 1 N LaSalle","5200116","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-14,2020-10-03,2020-05-14,2020-10-03,2024-08-06
+1260010,Capital One Southport - LVT Replacement,"1200264 - Capital One Southport - LVT Replacement","1200264","Bulley & Andrews, LLC",Corporate,,2020-05-18,2020-06-15,2020-05-18,2020-06-15,2024-03-19
+1260018,Capital One Lincoln Park - LVT Replacement,"1200265 - Capital One Lincoln Park - LVT Replacement","1200265","Bulley & Andrews, LLC",Corporate,,2020-05-27,2020-06-15,2020-05-27,2020-06-15,2024-03-19
+1260110,"2626 N Lakeview - Plumbing Riser Replacement","1200266-1 - 2626 N Lakeview - Plumbing Riser Replacement","1200266-1","Bulley & Andrews, LLC",Multi-Tenant,"Domestic Water Replacement - Express, Distribution & Risers. ",2021-03-01,2022-06-15,2021-03-01,2022-06-15,2024-08-06
+1260284,Howard Brown Health Broadway Youth Center,"1200122 - Howard Brown Health Broadway Youth Center","1200122","Bulley & Andrews, LLC",Mixed-Use Space,"Ground up construction of a 20,000 SF youth center in the Lakeview neighborhood that includes a commercial kitchen, clinic/exam rooms, offices, labs and a dance & movement room.  ",2020-08-01,2021-08-31,2020-08-01,2021-08-31,2024-08-06
+1260292,"111 N Canal - Alley/Garage Rehabilitation Phase 2","5200117 - 111 N Canal - Alley/Garage Rehabilitation Phase 2","5200117","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-06-22,2020-12-30,2020-06-22,2020-12-30,2024-08-06
+1260907,"1530 N. State Parkway - New Roof Anchorages","5200118 - 1530 N. State Parkway - New Roof Anchorages","5200118","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-05-18,2020-12-31,2020-05-18,2020-12-31,2024-08-06
+1261559,"1546 N Bosworth","4200217 - 1546 N Bosworth","4200217","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-18,2020-05-29,2020-05-18,2020-05-29,2024-08-06
+1261605,ANL - Long Beamline Building,"5200119 - ANL - Long Beamline Building","5200119","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-05-18,2021-01-01,2020-05-18,2021-01-01,2024-08-06
+1261875,St. Chrysostom's - Phase 3,"1200235 - St. Chrysostom's - Phase 3","1200235","Bulley & Andrews, LLC",Sacred / Religious Space,"Partial interior renovation of existing day school, new first floor restroom facilities, and new mechanical, electrical, and plumbing equipment.  Exterior improvements include new roofing and masonry repointing, window replacement and enclosure of new vestibule at south elevation.",2020-05-26,2020-09-01,2020-05-26,2020-09-01,2024-08-06
+1262066,"Rush Oak Brook Orthopedic Center, Service Contract - Misc Garage Repair","5200120 - Rush Oak Brook Orthopedic Center, Service Contract - Misc Garage Repair","5200120","Bulley & Andrews Concrete Restoration, LLC",Healthcare,"Perform miscellaneous repair to the elevated parking structure; concrete patch, sealant, and expansion joint.",2019-11-11,2022-10-31,2019-11-11,2022-10-31,2024-08-06
+1262582,"1100 N Lake Shore Dr.","4200218 - 1100 N Lake Shore Dr.","4200218","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,2020-05-18,2020-06-06,2020-05-18,2020-06-06,2024-08-06
+1263330,Mid America Concrete Repair,"5200121 - Mid America Concrete Repair","5200121","Bulley & Andrews Concrete Restoration, LLC",Plaza,,2020-05-19,2020-06-19,2020-05-19,2020-06-19,2024-08-06
+1263802,"1130 N Lake Shore Dr","4200220 - 1130 N Lake Shore Dr","4200220","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-19,2020-05-29,2020-05-19,2020-05-29,2024-08-06
+1263893,"2144 N. LPW","4200219 - 2144 N. LPW","4200219","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-22,2020-08-28,2020-06-22,2020-08-28,2024-03-19
+1264908,"112 S. Michigan Avenue Sidewalk Project","5200122 - 112 S. Michigan Avenue Sidewalk Project","5200122","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-05-20,2020-12-31,2020-05-20,2020-12-31,2024-08-06
+1265306,Corridors III Garage Repair Maintenance (Year 2),"5200126 - Corridors III Garage Repair Maintenance (Year 2)","5200126","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-06-15,2020-10-31,2020-06-15,2020-10-31,2024-08-06
+1265985,Harper College - 2020 Wall Life Safety & Exterior Stairs (Re-Bid),"5200127 - Harper College - 2020 Wall Life Safety & Exterior Stairs (Re-Bid)","5200127","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,2020-05-22,2020-12-31,2020-05-22,2020-12-31,2024-08-06
+1266041,Our Lady of Brook Catholic Church,"4200223 - Our Lady of Brook Catholic Church","4200223","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,2020-05-21,2020-05-21,2020-05-21,2020-05-21,2024-08-06
+1266050,S&C Electric Building 4,"4200224 - S&C Electric Building 4","4200224","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-01,2020-05-24,2020-05-01,2020-05-24,2024-08-06
+1266211,"2733 W. Belden Ave_Epoxy Injection","5200123 - 2733 W. Belden Ave_Epoxy Injection","5200123","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,2020-05-21,2020-05-26,2020-05-21,2020-05-26,2024-08-06
+1266222,"400 E Randolph_Shot Blasting Trazzo","5200124 - 400 E Randolph_Shot Blasting Trazzo","5200124","Bulley & Andrews Concrete Restoration, LLC",Mixed-Use Space,,2020-05-21,2020-06-12,2020-05-21,2020-06-12,2024-08-06
+1266256,"1100 N Lake Shore Drive_Expansion Joint","5200125 - 1100 N Lake Shore Drive_Expansion Joint","5200125","Bulley & Andrews Concrete Restoration, LLC",Multi-Tenant,,2020-05-21,2020-06-05,2020-05-21,2020-06-05,2024-08-06
+1266262,Harper College - 2020 Sidewalk & Concrete Maintenance,"5200128 - Harper College - 2020 Sidewalk & Concrete Maintenance","5200128","Bulley & Andrews Concrete Restoration, LLC",Higher Ed,,2020-05-22,2020-12-31,2020-05-22,2020-12-31,2024-08-06
+1266376,Greenview Passage Condo,"4200225 - Greenview Passage Condo","4200225","Bulley & Andrews Masonry Restoration, LLC",Corporate,,2020-05-24,2020-06-02,2020-05-24,2020-06-02,2024-08-06
+1269255,Hosmer Apartments,"4200226 - Hosmer Apartments","4200226","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,2020-05-26,2020-06-05,2020-05-26,2020-06-05,2024-08-06
+1269547,Bellarmine Jesuit,"4200227 - Bellarmine Jesuit","4200227","Bulley & Andrews Masonry Restoration, LLC",Sacred / Religious Space,,2020-06-01,2020-06-05,2020-06-01,2020-06-05,2024-03-19
+1269660,Boys & Girls Clubs of Chicago - Pool Repair,"5200129 - Boys & Girls Clubs of Chicago - Pool Repair","5200129","Bulley & Andrews Concrete Restoration, LLC",Clubs,,2020-05-26,2020-12-31,2020-05-26,2020-12-31,2024-08-06
+1269830,Intrinsic Clark St. Lobby - R2 Scope,"1200209 - Intrinsic Clark St. Lobby - R2 Scope","1200209","Bulley & Andrews, LLC",K-12 School,Buildout of the Clark Street lobby entrance of the Intrinsic Schools Downtown Campus for building owner R2 ,2020-03-19,2020-08-06,2020-03-19,2020-08-06,2024-03-19
+1270309,"9 West Walton_Balcony","5200130 - 9 West Walton_Balcony","5200130","Bulley & Andrews Concrete Restoration, LLC",Residential,,2020-05-27,2020-06-30,2020-05-27,2020-06-30,2024-08-06
+1270423,Clifford Law Build-Out,"1200233 - Clifford Law Build-Out","1200233","Bulley & Andrews, LLC",Corporate,"Build-out of interior office space for Clifford Law Firm. Includes MEP, carpentry, finish carpentry, and MEP finishes. ",2020-09-21,2021-02-12,2020-09-21,2021-02-12,2024-03-19
+1271289,Bulley & Andrews' COVID Action Plan,bacovid19 - Bulley & Andrews' COVID Action Plan,bacovid19,"Bulley & Andrews, LLC",Office,"As part of Bulley & Andrews' reopening, this Procore project will be the main source of documentation and tracking for internal employees as they re-enter the workplace.",2020-06-15,2021-06-15,2020-06-15,2021-06-15,2024-03-19
+1271319,Capital One Scottsdale,"119074 - Capital One Scottsdale","119074","Bulley & Andrews, LLC",Corporate,,2019-11-04,2020-08-19,2019-11-04,2020-08-19,2024-08-06
+1271743,"1236 N State","4200230 - 1236 N State","4200230","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-10-12,2020-10-16,2020-10-12,2020-10-16,2024-03-19
+1272190,Longwood - CICS Tunnel - Concrete Repairs,"5200131 - Longwood - CICS Tunnel - Concrete Repairs","5200131","Bulley & Andrews Concrete Restoration, LLC",K-12 School,,2020-05-25,2020-05-29,2020-05-25,2020-05-29,2024-08-06
+1272204,The Artesian Condominium,"4200231 - The Artesian Condominium","4200231","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-05-28,2020-06-18,2020-05-28,2020-06-18,2024-08-06
+1272374,NW Lake Forest Amphitheater,"1200202 - NW Lake Forest Amphitheater","1200202","Bulley & Andrews, LLC",Healthcare,Building of new outdoor amphitheater ,2020-08-03,2020-10-30,2020-03-25,2020-09-14,2024-03-19
+1272687,Fitzgerald Family Residence,"1200278 - Fitzgerald Family Residence","1200278","Bulley & Andrews, LLC",Residential,Residential Remodel,2020-08-03,2020-11-30,2020-08-03,2020-11-30,2024-03-19
+1272736,"33 N LaSalle","4200232 - 33 N LaSalle","4200232","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,2020-05-28,2020-05-31,2020-05-28,2020-05-31,2024-08-06
+1273211,LU Santa Clara Hall (shoring),"4200233 - LU Santa Clara Hall (shoring)","4200233","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-05-05,2020-05-29,2020-05-05,2020-05-29,2024-03-19
+1274810,"120 North LaSalle","4200234 - 120 North LaSalle","4200234","Bulley & Andrews Masonry Restoration, LLC",Corporate,,2020-06-01,2020-06-09,2020-06-01,2020-06-09,2024-08-06
+1274971,Cook County Forest Peserves,"4200235 - Cook County Forest Peserves","4200235","Bulley & Andrews Masonry Restoration, LLC",Community Center,,2020-06-08,2020-06-25,2020-06-08,2020-06-25,2024-08-06
+1276250,NS Evanston COS Suite 105 Interior Alterations,"1200160 - NS Evanston COS Suite 105 Interior Alterations","1200160","Bulley & Andrews, LLC",Healthcare,Interior alterations to existing 1st floor suite.  ,2020-05-26,2020-07-24,2020-05-26,2020-07-24,2024-03-19
+1276368,"156 W Superior St","4200236 - 156 W Superior St","4200236","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,2020-06-11,2020-06-24,2020-06-11,2020-06-24,2024-08-06
+1276400,COE Marketplace Buildout,"4200229 - COE Marketplace Buildout","4200229","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-06-03,2020-06-30,2020-06-03,2020-06-30,2024-08-06
+1276551,"1143 S Plymouth Ct","4200237 - 1143 S Plymouth Ct","4200237","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-02,2020-06-26,2020-06-02,2020-06-26,2024-08-06
+1276967,Daley Center,"4200238 - Daley Center","4200238","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-02,2020-06-26,2020-06-02,2020-06-26,2024-08-06
+1277006,Old McDonald's Headquarters - PT Investigation,"5200132 - Old McDonald's Headquarters - PT Investigation","5200132","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-06-02,2020-12-31,2020-06-02,2020-12-31,2024-08-06
+1277849,McDonalds Campus - Serpentine Bridge Canopy Repair,"5200133 - McDonalds Campus - Serpentine Bridge Canopy Repair","5200133","Bulley & Andrews Concrete Restoration, LLC",Corporate,Repair underside of Serpentine Bridge Canopy,2020-06-03,2020-06-12,2020-06-03,2020-06-12,2024-08-06
+1278085,Parking Garage Repairs at Lake Hinsdale Tower (Delete),"5200134x - Parking Garage Repairs at Lake Hinsdale Tower (Delete)","5200134x","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,Project consists of structural and waterproofing repairs to the multi-story concrete parking garage and several alternates including slab-on-grade and asphalt drive aisle replacement as fully described in the drawings and specifications.  Bid documents to be released no later than 6/8/2020.,2020-07-14,2020-09-30,2020-07-14,2020-09-30,2024-03-19
+1278265,S&C Electric - Building 4,"5200135 - S&C Electric - Building 4","5200135","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-06-03,2020-12-31,2020-06-03,2020-12-31,2024-08-06
+1279099,NSCI - Minor Concrete Patching,"5200136 - NSCI - Minor Concrete Patching","5200136","Bulley & Andrews Concrete Restoration, LLC",Historical Restoration,Repair damaged facade precast,2020-06-04,2020-06-04,2020-06-04,2020-06-04,2024-08-06
+1280298,King Cole (CDC access),"4200239 - King Cole (CDC access)","4200239","Bulley & Andrews Masonry Restoration, LLC",Hospitality,,2020-06-22,2020-07-03,2020-06-22,2020-07-03,2024-03-19
+1280319,Howard Orloff,"4200240 - Howard Orloff","4200240","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-10,2020-06-12,2020-06-10,2020-06-12,2024-03-19
+1281108,Regency Plaza Parking Garage,"5200137 - Regency Plaza Parking Garage","5200137","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-06-05,2021-01-01,2020-06-05,2021-01-01,2024-08-06
+1281224,"536 S Clark","4200221 - 536 S Clark","4200221","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-04,2020-06-26,2020-06-04,2020-06-26,2024-08-06
+1281329,LU Dumbach Hall,"4200210 - LU Dumbach Hall","4200210","Bulley & Andrews Masonry Restoration, LLC",Higher Ed,,2020-06-15,2020-06-17,2020-06-15,2020-06-17,2024-03-19
+1281823,Chase Tower Tunnel Repair Project,"5200138 - Chase Tower Tunnel Repair Project","5200138","Bulley & Andrews Concrete Restoration, LLC",Financial,Tunnel exterior waterproofing and concrete repair,2020-06-08,2020-06-08,2020-06-08,2020-06-08,2024-08-06
+1282244,BAMR Tech,"9999999 - BAMR Tech","9999999","Bulley & Andrews Masonry Restoration, LLC",Corporate,,2020-06-08,2022-06-06,2020-06-08,2022-06-06,2024-08-06
+1282764,"199 E Lake Shore Drive","4200241 - 199 E Lake Shore Drive","4200241","Bulley & Andrews Masonry Restoration, LLC",Historical Restoration,,2020-09-14,2021-07-04,2020-09-14,2021-07-04,2024-08-06
+1282820,Parking Garage Repairs at Lake Hinsdale Tower,"5200134 - Parking Garage Repairs at Lake Hinsdale Tower","5200134","Bulley & Andrews Concrete Restoration, LLC",Parking Facility,,2020-06-09,2020-12-31,2020-06-09,2020-12-31,2024-08-06
+1284749,Wrigley Building Graffiti Repairs,"4200242 - Wrigley Building Graffiti Repairs","4200242","Bulley & Andrews Masonry Restoration, LLC",Commercial,,2020-06-09,2020-06-10,2020-06-09,2020-06-10,2024-08-06
+1284795,"707 West Junior Terrace","4200243 - 707 West Junior Terrace","4200243","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-09,2020-06-09,2020-06-09,2020-06-09,2024-08-06
+1285173,"1843 W Nelson","4200244 - 1843 W Nelson","4200244","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-10,2020-06-10,2020-06-10,2020-06-10,2024-03-19
+1285496,"303 East Wacker - Expansion Joint Replacement","5200139 - 303 East Wacker - Expansion Joint Replacement","5200139","Bulley & Andrews Concrete Restoration, LLC",Commercial,,2020-06-24,2020-12-31,2020-06-24,2020-12-31,2024-08-06
+1286304,"1720 S Michigan","4200245 - 1720 S Michigan","4200245","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-08-24,2020-09-04,2020-08-24,2020-09-04,2024-03-19
+1286739,"9 W Walton","4200246 - 9 W Walton","4200246","Bulley & Andrews Masonry Restoration, LLC",Residential,,2020-06-11,2020-06-11,2020-06-11,2020-06-11,2024-08-06
+1287160,"6033 N Sheridan Rd","4200247 - 6033 N Sheridan Rd","4200247","Bulley & Andrews Masonry Restoration, LLC",Mixed-Use Space,,2020-07-24,2020-06-24,2020-07-24,2020-06-24,2024-03-19
+1288520,"LaGrange Fire Station, Rehabilitation of Apparatus Floor","5200141 - LaGrange Fire Station, Rehabilitation of Apparatus Floor","5200141","Bulley & Andrews Concrete Restoration, LLC",Municipal,"Base bid repairs include partial and full depth concrete repairs, embedded galvanic anode system, and shimming structural steel girders.",2020-06-12,2020-06-12,2020-06-12,2020-06-12,2024-08-06
